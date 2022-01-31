@@ -1,3 +1,3 @@
-import { getHello } from './src/hello';
+import { getHello } from 'starter-kit/hello';
 
 console.log(getHello());
