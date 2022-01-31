@@ -1,0 +1,19 @@
+{
+  "name": "starter-kit",
+  "version": "1.0.0",
+  "description": "For starting new TypeScript projects managed in npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huy-vuong/starter-kit-typescript-npm.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/huy-vuong/starter-kit-typescript-npm/issues"
+  },
+  "homepage": "https://github.com/huy-vuong/starter-kit-typescript-npm#readme"
+}
