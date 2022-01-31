@@ -1,1 +1,3 @@
-console.log('Hello world!');
+import { getHello } from './src/hello';
+
+console.log(getHello());
