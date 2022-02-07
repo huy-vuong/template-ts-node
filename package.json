@@ -21,6 +21,7 @@
     "url": "https://github.com/huy-vuong/starter-kit-typescript-npm/issues"
   },
   "homepage": "https://github.com/huy-vuong/starter-kit-typescript-npm#readme",
+  "dependencies": {},
   "devDependencies": {
     "@types/jest": "^27.4.0",
     "@types/node": "^17.0.13",
