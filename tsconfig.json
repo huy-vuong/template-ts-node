@@ -13,7 +13,7 @@
     "allowSyntheticDefaultImports": true,
     "baseUrl": "./",
     "paths": {
-      "starter-kit/*": ["./src/*"]
+      "starter-kit-typescript-npm/*": ["./src/*"]
     }
   },
   "exclude": ["test"]
