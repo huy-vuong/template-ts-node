@@ -7,7 +7,7 @@
     "start": "ts-node -r tsconfig-paths/register index.ts",
     "build": "rm -rf build/ && tsc",
     "format": "prettier --write ./*.ts src/**/*.ts test/**/*.ts",
-    "check-format": "prettier --check ./*.ts src/**/*.ts test/**/*.ts",
+    "format:check": "prettier --check ./*.ts src/**/*.ts test/**/*.ts",
     "test": "jest",
     "prepare": "husky install"
   },
