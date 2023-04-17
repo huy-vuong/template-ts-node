@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
-    "lib": ["ES2020"],
+    "lib": ["ES2022"],
     "outDir": "./build",
     "module": "CommonJS",
-    "target": "ES2020",
+    "target": "ES2022",
     "importHelpers": false,
     "noImplicitAny": true,
     "noImplicitThis": true,
