@@ -16,6 +16,5 @@
     "paths": {
       "starter-kit-typescript-npm/*": ["./src/*"]
     }
-  },
-  "exclude": ["test"]
+  }
 }
