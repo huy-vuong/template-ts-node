@@ -1,4 +1,5 @@
-![GitHub Actions Build Status](https://github.com/huy-vuong/starter-kit-typescript-npm/actions/workflows/build.yml/badge.svg)
+![GitHub Actions Build Status](https://github.com/huy-vuong/template-ts-node/actions/workflows/build.yml/badge.svg)
 
-# starter-kit-typescript-npm
-For starting new TypeScript projects managed in npm
+# template-ts-node
+
+For starting new [TypeScript](https://www.typescriptlang.org/) projects running on [Node.js](https://nodejs.org/)

@@ -1,3 +1,3 @@
-import { getHello } from 'starter-kit-typescript-npm/hello';
+import { getHello } from 'template-ts-node/hello';
 
 console.log(getHello());

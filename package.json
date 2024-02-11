@@ -1,7 +1,7 @@
 {
-  "name": "starter-kit-typescript-npm",
+  "name": "template-ts-node",
   "version": "1.0.0",
-  "description": "For starting new TypeScript projects managed in npm",
+  "description": "For starting new TypeScript projects using Express",
   "main": "src/index.ts",
   "scripts": {
     "start": "ts-node -r tsconfig-paths/register src/index.ts",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/huy-vuong/starter-kit-typescript-npm.git"
+    "url": "git+https://github.com/huy-vuong/template-ts-node"
   },
   "author": "",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/huy-vuong/starter-kit-typescript-npm/issues"
+    "url": "https://github.com/huy-vuong/template-ts-node"
   },
-  "homepage": "https://github.com/huy-vuong/starter-kit-typescript-npm#readme",
+  "homepage": "https://github.com/huy-vuong/template-ts-node",
   "dependencies": {
     "ts-node": "^10.9.1",
     "tsconfig-paths": "^4.2.0",
